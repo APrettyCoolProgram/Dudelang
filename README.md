@@ -96,8 +96,8 @@ TBD
 
 ## LICENSE
 
-Distributed under the [Apache 2.0 License](LICENSE).  
-Copyright &copy; 2026 %Owner%
+Distributed under the [Apache 2.0 License](LICENSE)  
+Copyright &copy; 2026 [A Pretty Cool Program](https://github.com/APrettyCoolProgram)
 
 <h6 align="center">
 
