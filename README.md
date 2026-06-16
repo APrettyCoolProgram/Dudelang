@@ -1,122 +1,248 @@
-<!--
-  README.md for Repository -Template
-  R26.6
--->
+
+> [!WARNING]
+> THIS IS EXPERIMENTAL!
 
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/repository-logo-dark.jpg">
-    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/repository-logo-light.jpg">
-    <img alt="Repository Template logo" src=".github/repository/logo/repository-logo-light.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/dudelang-334x344.jpg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/dudelang-334x344.jpg">
+    <img alt="Fallback image description" src=".github/repository/logo/dudelang-334x344.jpg">
   </picture>
 
-  <br>
+  <h1>Dudelang</h1>
 
-  ![RELEASE](https://img.shields.io/badge/Release-26.6-teal)&nbsp;&nbsp;
-  ![LICENSE](https://img.shields.io/badge/license-Apache%202.0-blue)
+  ![RELEASE](https://img.shields.io/badge/Release\/Version-25.0.0.0-teal)&nbsp;
+  ![STAGE](https://img.shields.io/badge/ALPHA/BETA-red)&nbsp; <!-- Alpha = Red, Beta = Yellow, Stable = Green -->
+  ![LICENSE](https://img.shields.io/badge/License-apache-blue)&nbsp;
+  ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
+  ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)&nbsp;
 
-# Repository Template
+  <h3>There's a beverage here!</h3>
 
 </div>
 
-This repository is a reusable starting point for GitHub repositories. It collects a root README, alternate README
-templates, standard supporting documentation, and GitHub metadata so a new repository can start with a consistent 
-structure instead of an empty scaffold.
+<h6 align="center">
 
-## Contents
+  [WEBSITE](URL)&nbsp;&bull;&nbsp;[DEMO](URL)&nbsp;&bull;&nbsp;[MANUAL](docs/man/README.md)&nbsp;&bull;&nbsp;[CHANGELOG](docs/CHANGELOG.md)&nbsp;&bull;&nbsp;[ROADMAP](docs/ROADMAP.md)&nbsp;&bull;&nbsp;[KNOWN ISSUES](docs/KNOWN-ISSUES.md)
+  
+</h6>
 
-- [What this repository includes](#what-this-repository-includes)
-- [Using the template](#using-the-template)
-- [Repository layout](#repository-layout)
-- [Supporting documentation](#supporting-documentation)
+---
 
-## What this repository includes
+<!-- ===================================================== [HORIZONTAL MENU] -->
 
-- A root README for the template repository itself.
-- [README-REPO.md](README-REPO.md) as an alternate root README for this template repository.
-- [Collection-README.md](Collection-README.md) for collection-style repositories.
-- [SourceCode-README.md](SourceCode-README.md) for software or source-code repositories.
-- A [docs](docs) folder containing common repository documents including the changelog, roadmap, development
-  notes, testing, support, security guidance, FAQ, and troubleshooting guidance.
-- A [src](src) folder for source code organization.
-- A [.github](.github) folder for repository assets, workspace data, and repository-specific metadata.
+| CONTENTS                                    |
+|---------------------------------------------|
+| [ABOUT Dudelang](#about-dudelang) |
+| [HOW IT WORKS](#how-it-works)               |
+| [GETTING STARTED](#getting-started)         |
+| [INSTALLING](#installing)                   |
+| [USAGE](#usage)                             |
+| [ACKNOWLEDGEMENTS](#acknowledgements)       |
+| [RELATED PROJECTS](#related-projects)       |
+| [LICENSE](#license)                         |
 
-## Using the template
+<!--
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
+--->
+---
 
-1. Create a new repository from this template, or copy the parts you want into an existing repository.
-2. Decide which README variant best matches the new repository:
-   - Use [Collection-README.md](Collection-README.md) for repositories that primarily collect links, notes, or
-     documentation.
-   - Use [SourceCode-README.md](SourceCode-README.md) for repositories that contain buildable software or other
-     source code.
-3. Copy the selected README template into the target repository as `README.md` and replace the placeholder text,
-   badges, links, screenshots, and release details.
-4. Review the files in [docs](docs) and remove any documents the new repository does not need.
-5. Update the repository assets under [.github/repository](.github/repository), especially the logo and README
-   screenshots, so the new repository branding matches the project.
-6. Add the `.do-not-commit/` folder to `.github/`
-7. Clean up any template-only content before publishing.
+<!-- =================================================== [TABLE OF CONTENTS] -->
 
-## Repository layout
+<!-- [PROJECT MESSAGE] =========================================================
+* Project message
+  Use for time-sensitive notices, deprecation warnings, or anything critical
+  that every visitor should see. Remove this section if not needed.
+============================================================================ -->
 
-Your repository should look like this:
+> [!IMPORTANT]
+> Replace this with a message everyone should see, or remove this section entirely.
 
-```text
-.
-|-- .github/
-|   |-- archive/
-|   |-- copilot/
-|   |-- development/
-|   |   |-- old-src/
-|   |   |-- scratch/
-|   |   |-- working/
-|   |-- repository/
-|   |   |-- logo/
-|   |   |-- readme/
-|   |-- third-party/
-|   |-- workspace/
-|   |-- copilot-instructions.md
-|   
-|-- docs/
-|   |-- api/
-|   |-- man/
-|   |-- CHANGELOG.md
-|   |-- CODEOWNERS
-|   |-- CONTRIBUTORS.md
-|   |-- DEVELOPMENT.md
-|   |-- FAQ.md
-|   |-- KNOWN-ISSUES.md
-|   |-- NOTICES.md
-|   |-- ROADMAP.md
-|   |-- SECURITY.md
-|   |-- SUPPORT.md
-|   |-- TESTING.md
-|   |-- TROUBLESHOOTING.md
-|
-|-- src/
-|-- .gitignore
-|-- Collection-README.md
-|-- LICENSE
-|-- README.md
-|-- SourceCode-README.md
-```
+<!--
+This divider separates the this section from the rest of the README. If you are
+not using the this section, comment this divider out.
+--->
+---
 
-## Supporting documentation
+<!-- ===================================================== [PROJECT MESSAGE] -->
 
-The [docs](docs) folder contains the following standard documents:
+<!-- [ABOUT] ===================================================================
+* About %ProjectName%
+  Describes the project in a few sentences
+* Features
+  List of project features
+* What's new
+  A summary of what's new in the latest release
+---------------------------------------------------------------------------- -->
 
-| File | Purpose |
-|------|---------|
-| [CHANGELOG.md](docs/CHANGELOG.md) | History of notable changes across releases. |
-| [CODEOWNERS](docs/CODEOWNERS) | GitHub code ownership assignments. |
-| [CONTRIBUTORS.md](docs/CONTRIBUTORS.md) | Acknowledgment of project contributors. |
-| [DEVELOPMENT.md](docs/DEVELOPMENT.md) | Developer setup, workflow, and contribution guidance. |
-| [FAQ.md](docs/FAQ.md) | Answers to frequently asked questions. |
-| [KNOWN-ISSUES.md](docs/KNOWN-ISSUES.md) | Documented known issues and workarounds. |
-| [NOTICES.md](docs/NOTICES.md) | Legal notices and third-party attributions. |
-| [ROADMAP.md](docs/ROADMAP.md) | Planned work and future direction. |
-| [SECURITY.md](docs/SECURITY.md) | Security policy and vulnerability reporting guidance. |
-| [SUPPORT.md](docs/SUPPORT.md) | How to get help and file issues. |
-| [TESTING.md](docs/TESTING.md) | Testing strategy and instructions. |
-| [TROUBLESHOOTING.md](docs/TROUBLESHOOTING.md) | Common problems and resolution steps. |
+## ABOUT Dudelang
+
+A brief description of the project, what it does, and who it's for. This should
+be a concise summary that gives readers a clear understanding of the project's
+purpose and value proposition.
+
+### Features
+
+* Feature — What it does and why it matters.
+* Feature — What it does and why it matters.
+* Feature — What it does and why it matters.
+
+### What's New
+
+* New feature — A brief description of the new feature and its benefits.
+* Improvement — A brief description of the improvement and its benefits.
+* Bug fix — A brief description of the bug fix and its impact.
+
+<!-- =============================================================== [ABOUT] -->
+
+<!-- [HOW IT WORKS] ============================================================
+* How it works
+  A high-level overview of how the project works.
+============================================================================= -->
+
+## HOW IT WORKS
+
+A blurb describing how the project works at a high level.
+
+<!-- ========================================================= [HOW IT WORKS] -->
+
+<!-- [GETTING STARTED] =========================================================
+* Before you begin
+  Any prerequisites, assumptions, or other information a user should know before
+  getting started.
+* Prerequisites/Requirements
+  List of software, hardware, or other requirements.
+
+  If this section is only comprised of prerequisites, it can be merged with the
+  About section.
+============================================================================ -->
+
+## GETTING STARTED
+
+A quick overview of how to get started with the project.
+
+### Before you begin
+
+Any assumptions, or other information a user should know before
+
+### Requirements
+
+| Requirement | Minimum version | Notes |
+|-------------|-----------------|-------|
+| Requirement |                 |       |
+| Requirement |                 |       |
+| Requirement |                 |       |
+
+<!-- [INSTALLING] =========================================================
+* Installing
+  Step-by-step instructions for installing the project on supported platforms.
+
+  This section may contain the Prerequisites.
+
+  In general, this should be a quick overview of the installation process,
+  with a link to docs/man/README.md.
+============================================================================ -->
+
+## INSTALLING
+
+Quick summary of installation instructions, or link to the Installing documentation.
+
+<!-- ========================================================== [INSTALLING] -->
+
+<!-- [USAGE] ===================================================================
+* Usage
+  Step-by-step instructions for using the project on supported platforms.
+  Remove OS sections that are not supported.
+
+  In general, this should be a quick overview of the usage process,
+  with a link to docs/man/README.md.
+============================================================================ -->
+
+<!-- [SETUP] ===================================================================
+* Setup
+  Step-by-step instructions for setting up the project on supported platforms.
+  Remove OS sections that are not supported.
+
+  In general, this should be a quick overview of the setup process,
+  with a link to docs/man/README.md.
+============================================================================ -->
+
+<!-- =============================================================== [SETUP] -->
+
+## USAGE
+
+Step-by-step instructions for using the project on supported platforms.
+
+<!-- =============================================================== [USAGE] -->
+
+<!-- [DOCUMENTATION] ===========================================================
+* Documentation
+  A quick overview of the documentation.
+============================================================================ -->
+
+## DOCUMENTATION
+
+Documentation is available.
+
+<!-- ======================================================= [DOCUMENTATION] -->
+
+<!-- [ACKNOWLEDGEMENTS] ========================================================
+* Acknowledgements
+  List of acknowledgements, or remove this section if there are none.
+============================================================================ -->
+
+## ACKNOWLEDGEMENTS
+
+None.
+
+<!-- ==================================================== [ACKNOWLEDGEMENTS] -->
+
+<!-- [RELATED PROJECTS] ========================================================
+* Related projects
+  List of related projects, or remove this section if there are none.
+============================================================================ -->
+
+## BUILT WITH
+
+* [Technology or framework](URL)  - Role it plays in the project.
+* [Technology or framework](URL)  - Role it plays in the project.
+* [Technology or framework](URL)  - Role it plays in the project.
+
+## RELATED PROJECTS
+
+None.
+
+<!-- ==================================================== [RELATED PROJECTS] -->
+
+<!-- [LICENSE] =================================================================
+* License
+  The license under which the project is distributed.
+============================================================================ -->
+
+## LICENSE
+
+Distributed under the [Apache 2.0 License](LICENSE).  
+Copyright &copy; 2026 %Owner%
+
+<!-- ============================================================= [LICENSE] -->
+
+---
+
+<!-- [HORIZONTAL MENU] =========================================================
+* Horizontal menu (bottom)
+  Contains components that aren't in/don't belong in the table of contents.
+---------------------------------------------------------------------------- -->
+
+<h6 align="center">
+
+  [FAQ](docs/FAQ.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[API](docs/api/README.md)&nbsp;&bull;&nbsp;[TESTING](docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](docs/NOTICES.md)
+  
+</h6>
+
+<!-- ===================================================== [HORIZONTAL MENU] -->
+
+---
+
+<sub>Last updated: 260516</sub>
