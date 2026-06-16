@@ -31,11 +31,9 @@
 
 ---
 
-<!-- ===================================================== [HORIZONTAL MENU] -->
-
 | CONTENTS                                    |
 |---------------------------------------------|
-| [ABOUT Dudelang](#about-dudelang) |
+| [ABOUT DUDELANG](#about-dudelang) |
 | [HOW IT WORKS](#how-it-works)               |
 | [GETTING STARTED](#getting-started)         |
 | [INSTALLING](#installing)                   |
@@ -44,41 +42,9 @@
 | [RELATED PROJECTS](#related-projects)       |
 | [LICENSE](#license)                         |
 
-<!--
-This divider separates the this section from the rest of the README. If you are
-not using the this section, comment this divider out.
---->
 ---
 
-<!-- =================================================== [TABLE OF CONTENTS] -->
-
-<!-- [PROJECT MESSAGE] =========================================================
-* Project message
-  Use for time-sensitive notices, deprecation warnings, or anything critical
-  that every visitor should see. Remove this section if not needed.
-============================================================================ -->
-
-> [!IMPORTANT]
-> Replace this with a message everyone should see, or remove this section entirely.
-
-<!--
-This divider separates the this section from the rest of the README. If you are
-not using the this section, comment this divider out.
---->
----
-
-<!-- ===================================================== [PROJECT MESSAGE] -->
-
-<!-- [ABOUT] ===================================================================
-* About %ProjectName%
-  Describes the project in a few sentences
-* Features
-  List of project features
-* What's new
-  A summary of what's new in the latest release
----------------------------------------------------------------------------- -->
-
-## ABOUT Dudelang
+## ABOUT DUDELANG
 
 A brief description of the project, what it does, and who it's for. This should
 be a concise summary that gives readers a clear understanding of the project's
