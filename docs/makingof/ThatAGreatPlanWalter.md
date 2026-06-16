@@ -1,7 +1,7 @@
 <div align="center">
 
   <h1>The Making of Dudelang</h1>
-  <h3>01: Dude, what's the plan?</h3>
+  <h3>01: That's a great plan, Walter</h3>
 
 </div>
 
@@ -17,19 +17,19 @@ The language will incorporate themes, characters, and quotes from "The Big Lebow
 
 For instance, "Hello world" in Dudelang would look like this:
 
-```
+```text
 DUDE, SAY "Hello world"
 ```
 
 And declaring a string variable would look like this:
 
-```
+```text
 DUDE, MARK i "Hello world"
 ```
 
 Combining the two would be:
 
-```
+```text
 DUDE, MARK i "Hello world"
 DUDE, SAY i
 ```
@@ -53,7 +53,8 @@ sayCommand --> "Dude, say" + stringLiteral
 markCommand --> "Dude, mark" + identifier + stringLiteral
 
 Key features:
-- Commands start with `Dude, `
+
+- Commands start with `Dude,`
 - Two main verbs: `say` (output) and `mark` (assign)
 - Variables are named using identifiers after `mark`
 - String literals use double quotes
@@ -72,7 +73,7 @@ flowchart TD
 
 #### File Structure Suggestion:
 
-```
+```text
 src/
 ├── dudelang/
 │   ├── lexer.py  # Tokenizer implementation
