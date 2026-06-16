@@ -1,6 +1,6 @@
 <div align="center">
 
-  <h1>Repository: Changelog</h1>
+  <h1>Dudelang: Changelog</h1>
 
 </div>
 

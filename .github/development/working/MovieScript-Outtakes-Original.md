@@ -1,0 +1,376 @@
+## Key phrases
+
+- Tumbling Tumbleweeds
+- That was the handle his lovin' parents gave him
+- But he never had much use for it himself.
+- That's a name no one would self-apply where I come from
+- There was a lot about the Dude that didn't make a whole lot of sense to me
+- I didn't find it to be that exactly
+- But I'll allow as there are some nice folks there. 
+- I ain't never seen no queen in her damn undies as the fella says.
+- I guess I seen somethin' ever'  bit as stupefyin' as ya'd see in any  a those other places
+- and in English too
+- so I can die with a smile on my  face without feelin' like the good Lord gypped me.
+- Now this story I'm about to unfold took place back in the early nineties
+- just about the time of our conflict with Sad'm and the Eye-rackies.
+- some- times there's a man
+- I won't say a hee-ro, 'cause what's a hee-ro?
+- but sometimes there's a man.
+- And I'm talkin' about the Dude here
+- he's the man for his time'n place
+- he fits right in there
+- This aggression will not stand.
+- This will not stand!
+- and even if he's a lazy man
+- and the Dude was certainly that
+- quite possibly the laziest in Los Angeles County.
+- which would place him high in the runnin' for laziest worldwide
+- I lost m'train of thought here.
+- aw hell, I done innerduced him enough.
+- It's the LeBaron.
+- We want that money, Lebowski.
+- Bunny said you were good for it.
+- Where's the money, Lebowski!
+- WHERE'S THE FUCKING MONEY, SHITHEAD!
+- It's uh, it's down there somewhere.  
+- Lemme take another look.
+- Don't fuck with us.
+- If your wife owes money to Jackie Treehorn, that means you owe money to Jackie Treehorn.
+- Ever thus to deadbeats, Lebowski.
+- You see what happens?
+- You see what happens, Lebowski?
+- Look, nobody calls me Lebowski.
+- You got the wrong guy.
+- I'm the Dude, man.
+- Your name is Lebowski.
+- Your wife is Bunny.
+- Look, moron.
+- You see a wedding ring? 
+- Does this place look like I'm fucking married?   
+- All my plants are dead!
+- The fuck is this?
+- Obviously you're not a golfer.
+- Woo?
+- Wasn't this guy supposed to be a millionaire?
+- What do you think?
+- He looks like a fuckin' loser.
+- At least I'm housebroken.
+- Fuckin' waste of time.
+- Thanks a lot, asshole.
+- Hot damn
+- I'm throwin' rocks tonight.
+- Mark it, Dude.
+- This was a valued rug.
+- it really tied the room 
+- What tied the room together, Dude?
+- Were you listening to the story, Donny?
+- Were you listening to the Dude's 
+- I was bowling
+- So you have no frame of reference, Donny.
+- You're like a child who wanders in in the middle of a movie and wants to know--
+- What's your point, Walter?
+- There's no fucking reason
+- here's my point, Dude
+- Yeah Walter, what's your point?
+- we all know who was at fault
+- what the fuck are you talking about?
+- we're talking about unchecked aggression here
+- What the fuck is he talking about?
+- My rug.
+- Forget it, Donny. 
+- You're out of your element.
+- This Chinaman who peed on my rug
+- I can't go give him a bill so what the 
+- This Chinaman is not the issue!
+- I'm talking about drawing a line in the sand, Dude.
+- Across this line you do not
+- and also, Dude
+- Chinaman is not the preferred, uh. . . Asian- American.  Please.
+- Walter, this is not a guy who built the rail- roads
+- this is a guy who peed on my
+- Walter, he peed on my rug
+- He peed on the Dude's rug
+- YOU'RE OUT OF YOUR ELEMENT!
+- This Chinaman is not the issue, Dude.
+- Come on. 
+- This other Jeffrey Lebowski
+- The millionaire.
+- He's gonna be easier to find anyway  than these two
+- And he has the wealth, uh, the resources obviously
+- there is no reason
+- no FUCKING reason
+- why his  wife should go out and owe money and they pee on your rug.
+- Am I wrong?
+- Fuckin' A.
+- And this guy peed on it.
+- Donny!  Please!
+- Yeah, I could find this Lebowski guy
+- His name is Lebowski?  That's your name, Dude
+- Yeah, this is the guy
+- this guy should compensate me for the fucking rug. 
+- I mean his wife goes out and owes money and they pee on my rug.
+- Thaaat's right Dude
+- they pee on your fucking Rug.
+- And this is the study.
+- You can see the various commendations, honorary degrees, et cetera.
+- Yes, uh, very impressive.
+- Please, feel free to inspect them.
+- That's the key to the city of Pasadena, which Mr. Lebowski was given two years ago in recognition of his various civic, uh
+- That's a Los Angeles Chamber of Commerce Business Achiever award, which is given
+- not necessarily given every year!
+- Given only when there's a worthy, somebody especially
+- Hey, is this him with Nancy? That is indeed Mr. Lebowski with the first lady, yes, taken when
+- Lebowski on the right?
+- Of course, Mr. Lebowski on the right,
+- Mrs.  Reagan on the left, taken when
+- He's handicapped, huh?
+- Mr. Lebowski is disabled, yes. 
+- And this picture was taken when Mrs. Reagan was first lady of the nation, Not of California.
+- Far out.
+- in fact he met privately with the President
+- though unfortunately there wasn't time for a photo opportunity.
+- Nancy's pretty good.
+- Wonderful woman. 
+- These are Mr. Lebowski's children
+- So to speak
+- Different mothers, huh?
+- I guess he's pretty, uh, racially pretty cool
+- They're not his,they're not literally his children
+- they're the Little Lebowski Urban Achievers,
+- inner-city children of promise but
+- without  the means  for higher education
+- so Mr. Lebowski  has committed  to sending  all of them to college.
+- Jeez.
+- Think he's got room for one  more?
+- You never went to college?
+- I spent most of my time occupying various,  administration buildings
+- smoking thai-stick
+- breaking into the ROTC
+- I'll tell you the truth, Brandt, I don't remember most of it.
+- Jeez!
+- Fuck me!
+- Okay sir
+- you're a Lebowski, I'm a Lebowski
+- that's terrific
+- I'm very busy
+- what can I do for you?
+- Well sir, it's this rug I have
+- really tied the room together
+- You told Brandt on the phone, he old me.
+- So where do I fit in?
+- Well they were looking for you
+- these two guys
+- they were trying to
+- I'll say it again, all right?
+- You told Brandt.
+- He told me. 
+- I know what happened.
+- So you know they were trying to piss on your rug
+- did I urinate on your rug?
+- did you personally come and pee on my
+- Do you speak English?
+- Parla usted Inglese?
+- I'll say it again.  
+- like I said, Woo peed on  the rug--
+- So every time  every time a rug is micturated upon in this fair city, I have to compensate 
+- I just want to understand this, sir--
+- Come on, man
+- I'm not trying to scam anybody here
+- You're just looking for a handout like every other
+- are you employed
+- let me explain something
+- I'm not Mr. Lebowski
+- you're Mr.  Lebowski
+- I'm the Dude.
+- So that's  what  you  call me.
+- Duder.
+- His  Dudeness
+- El Duderino
+- if, you know, you're not into the whole brevity thing
+- Are you employed, sir?
+- Employed?
+- You don't go out and make a living dressed like that in the middle of a  weekday.
+- Is this a
+- what day is this? 
+- But I do work, so if you don't mind
+- No, look.
+- I do mind.
+- The Dude minds
+- This will not stand
+- I mean, if your wife owes
+- My wife is not the issue here.
+- I hope that my wife will someday learn to live on her allowance
+- which is ample
+- but if she doesn't, sir
+- that will be her problem, not mine
+- just as your rug is your problem
+- just as every bum's lot in life is his own responsibility regardless of whom he chooses to blame.
+- I didn't blame anyone for the loss of my legs
+- some chinaman in Korea took them from me
+- I went out and achieved anyway.  
+- I can't solve your problems, sir, only you can.
+- Ah fuck it.
+- Sure!  Fuck it! 
+- That's your answer! 
+- Tattoo it on your forehead!
+- Your answer to everything!
+- Your "revolution" is over, Mr.  Lebowski!
+- Condolences!
+- The bums lost!
+- My advice is, do what your parents did!
+- Get a job, sir! 
+- The bums will always lose
+- do you hear me Lebowski?
+- THE BUMS WILL ALWAYS
+- How was your meeting, Mr. Lebowski?
+- The old man told me to take any rug in the house.
+- Manolo will load it into your car for you, uh, Dude.
+- It's the LeBaron.
+- perhaps we'll see you again some time, Dude.
+- if I'm ever in the neighborhood, need to use the john.
+- Blow on them.
+- Blow.
+- You want me to blow on your toes?
+- I can't blow that far.
+- You sure he won't mind?
+- Dieter doesn't care about anything.  
+- He's a nihilist.
+- Practicing?
+- You're not blowing.
+- Our guest has to be getting along,  Mrs.  Lebowski.
+- You're Bunny?
+- I'll suck your cock for a thousand dollars.
+- Wonderful woman.
+- Very free-spirited.
+- We're all very fond  of her.  Brandt can't watch though.
+- Or he has to pay a hundred.
+- That's marvelous.
+- I'm just gonna find a cash machine.
+- Grasshopper Dude
+- They're dead in the water!!
+- Your maples, Carl.
+- Way to go, Dude.
+- If you will it, it is no dream.
+- You're fucking twenty minutes late. 
+- What the fuck is that?
+- Theodore Herzel.
+- State of Israel. 
+- What the fuck're you talking about?  
+- The carrier. 
+- What's in the fucking carrier?
+- Cynthia's Pomeranian.  
+- Can't leave him home alone or he  eats the furniture.
+- I'm saying, Cynthia's Pomeranian.  
+- I'm looking after it while Cynthia and Marty Ackerman are in Hawaii.
+- You brought a fucking Pomeranian bowling?
+- What do you mean "brought it bowling"? 
+- I didn't rent it shoes.
+- I'm not  buying it a fucking beer.  
+- gonna take your fucking turn, Dude.
+- if my fucking ex-wife asked me to take care of her fucking dog while she and her boyfriend went to Honolulu, I'd tell her to go fuck  herself.
+- Why can't she board it?
+- First of all, Dude
+- you don't have an ex
+- secondly
+- it's a fucking show dog with fucking papers.
+- You can't board it.
+- It gets upset
+- its hair falls out.
+- Hey man
+- Fucking dog has papers, Dude.
+- Over the line!
+- Smokey Huh?
+- Over the line, Smokey!
+- I'm sorry. 
+- That's a foul.
+- Bullshit.
+- Eight, Dude.
+- Excuse me! 
+- Mark it zero. 
+- Next frame.
+- This is not Nam.  This is bowling.  There are rules.
+- Come on Walter, it's just
+- it's Smokey. 
+- So his toe slipped over a little, it's just a game.
+- This is a league game.
+- This determines who enters the next round-robin
+- Am I wrong?
+- Am I wrong!?
+- Yeah, but I wasn't over.  
+- Gimme the marker, Dude
+- I'm marking it an  eight.
+- Smokey my friend
+- you're entering a  world of pain.
+- Hey Walter
+- Mark that frame an eight, you're  entering a world of pain.
+- A world of pain.
+- Look Dude
+- I don't hold with this. 
+- his guy is your partner, 
+- HAS THE WHOLE WORLD GONE CRAZY?  
+- AM I THE ONLY ONE HERE WHO GIVES A SHIT ABOUT THE RULES?
+- MARK IT ZERO!
+- Walter, they're calling the cops, 
+- put the piece away.
+- YOU THINK I'M FUCKING AROUND HERE?  
+- All right! 
+- There it is!
+- It's fucking zero!
+- You happy, you crazy fuck?
+- This is a league game, Smokey!
+- Walter, you can't do that.
+- These  guys're like me, they're pacificists. 
+- Smokey was a conscientious objector.
+- You know Dude, I myself dabbled with pacifism at one point.
+- Not in Nam, f course
+- And you know Smokey has emotional  problems!
+- You mean--beyond pacifism?
+- He's fragile, man!  He's very fragile!
+- I did not know that.
+- Well, it's water under the bridge. 
+- And we do enter the next round-robin
+- No, you're not wrong
+- You're not wrong, Walter, you're just an asshole.
+- Okay then.  
+- We play Quintana and O'Brien next week.
+- They'll be  pushovers
+- Just, just take it easy, Walter.
+- That's your answer to everything,  Dude.  
+- And let me point out
+- pacifism is not
+- look at our current situation  with that camelfucker in Iraq
+-  pacifism is not something to hide  behind.
+- I'm perfectly calm, Dude.
+- Wavin' a gun around?!
+- Calmer than you are.
+- Dude, this is Smokey.  
+- Look, I don't  wanna be a hard-on about this
+- and I know it wasn't your fault
+- but I  just thought it was fair to tell you that Gene and I will be submitting this to the League 
+- and asking them  to set aside the round.
+- Or maybe   forfeit it to us
+- like I say, just thought, you know, fair warning.
+- Tell Walter.
+- Mr. Lebowski, this is Brandt 
+- at Mr. Lebowski's office.  
+- Please call us as soon as is convenient.
+- Mr. Lebowski, this is Fred Dynarski with the Southern Cal Bowling League.
+- I just got a, an informal report that a member of your team drew a loaded weapon during league play
+- I finally got the venue I  wanted. 
+- I'm Performing my dance quintet
+- you know, my cycle
+- at Crane Jackson's Fountain Street Theatre on Tuesday night
+- I'd love it if you came and gave me notes.
+- Sure Allan, I'll be there.
+- tomorrow is already the tenth.
+- Yeah, yeah I know. Okay.
+- just slip the rent under my door.
+- Mr. Lebowski, Brandt again. 
+- Please do call us when you get in and I'll send the limo. 
+- Let me assure you
+- I hope you're not avoiding this call   because of the rug, 
+- I assure you, is not a problem. 
+- We need your  help 
+- we would very  much like to see you. 
+- Thank you.  
+- It's Brandt.
