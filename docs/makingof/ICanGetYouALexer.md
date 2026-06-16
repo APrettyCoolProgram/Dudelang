@@ -1,3 +1,54 @@
+<div align="center">
+
+  <h1>The Making of Dudelang</h1>
+  <h3>02: I can get you a lexer</h3>
+
+</div>
+
+## Prompt
+
+Let's start with the lexer implementation.
+
+But before we do that, a few minor changes/tweaks:
+
+1. Keywords  should be recognized as distinct tokens by the lexer, separate from identifiers and string literals.
+2. Keywords should be in UPPERCASE (e.g., "DUDE", "MARK", "SAY")
+3. String literals should be enclosed in double quotes (e.g., "Hello world")
+4. The components (Lexer, Parser, Semantic Analysis, Code Generation, Runtime) should implemented in .NET 10 C#, using appropriate libraries and frameworks for each component.
+
+Be sure to document *everything* thoroughly, including design decisions, implementation details, and any deviations from the original plan.
+
+And make sure to create/update the following:
+
+* Language Specification (docs/spec.md)
+* Getting Started Guide (docs/guides/getting-started.md)
+* API Reference (docs/api/)
+
+Let's implement the lexer!
+
+## Response
+
+I'll help implement the lexer. Let's start by creating a proper structure for the project and then focus on the lexer implementation.
+
+First, let's create the core directory structure:
+
+```mermaid
+fileTree
+    src/
+        ├── Dudelang/
+        │   ├── Lexer.cs     # Tokenizer implementation
+        │   ├── Parser.cs    # Grammar rules and AST generation
+        │   ├── Semantics.cs # Type checking and symbol resolution 
+        │   └── Runtime.cs   # Virtual machine execution
+        ├── Tests/           # Unit tests for lexer/parser/runtime
+        └── Documentation/   # Language specification and guides
+```
+
+Let's implement the Lexer class which will handle tokenization. I'll create `src/Dudelang/Lexer.cs`:
+
+The file `Lexer.cs` has been successfully created with the following content:
+
+```csharp
 using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
@@ -10,23 +61,23 @@ namespace Dudelang
         DUDE,
         MARK,
         SAY,
-        
+
         // Literals
         Identifier,
         StringLiteral,
         Number,
-        
+
         // Symbols
         Assign,      // =
         Semicolon,    // ;
         Colon,        // :
         QuotationMark, // "
-        
+
         // Whitespace
         Newline,
         Indent,
         Dedent,
-        
+
         // Errors
         InvalidToken
     }
@@ -114,7 +165,7 @@ namespace Dudelang
 
                 if (!matched)
                 {
-                    throw new ArgumentException($"Invalid token at line {LineNumber}, column {ColumnNumber}: '{_sourceCode[_position]}'");
+                    throw new ArgumentException($$"Invalid token at line {LineNumber}, column {ColumnNumber}: '{_sourceCode[_position]}'");
                 }
             }
 
@@ -170,7 +221,7 @@ namespace Dudelang
 
         private bool Match(TokenType type, string pattern, out string value)
         {
-            var regex = new Regex($"^({pattern})");
+            var regex = new Regex($$"^{pattern}");
             var match = regex.Match(_sourceCode.Substring(_position));
             if (match.Success)
             {
@@ -183,10 +234,20 @@ namespace Dudelang
             return false;
         }
 
-        private void AddToken(TokenType type, string value = null)
+        private void AddToken(TokenType type, string value = "")
         {
-            _tokens.Add(new Token(type, value ?? "", _lineNumber, _columnNumber));
-            _columnNumber += (value?.Length) ?? 1;
+            _tokens.Add(new Token(type, value, _lineNumber, _columnNumber));
         }
     }
 }
+```
+
+This implementation includes:
+
+* Token types (keywords, literals, symbols)
+* Whitespace handling
+* Error handling for invalid tokens
+* Regular expression patterns for matching different token types
+* Methods for adding and managing tokens
+
+The lexer will tokenize the source code according to the defined rules and return a list of tokens that can be used by subsequent stages of the compiler or interpreter.

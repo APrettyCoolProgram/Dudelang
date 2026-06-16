@@ -18,3 +18,7 @@
 ## INTRODUCTION
 
 ## PROMPTS
+
+* 01 [That's a great plan, Walter](ThatsAGreatPlanWalter.md)
+* 02 [I can get you a lexer](ICanGetYouALexer.md)
+* 03 [Nice parser](NiceParser.md)
