@@ -12,7 +12,7 @@
 
   <h1>Dudelang</h1>
 
-  ![RELEASE](https://img.shields.io/badge/Release\/Version-25.0.0.0-teal)&nbsp;
+  ![RELEASE](https://img.shields.io/badge/Version-0.0.0.0-teal)&nbsp;
   ![STAGE](https://img.shields.io/badge/ALPHA-red)&nbsp; <!-- Alpha = Red, Beta = Yellow, Stable = Green -->
   ![LICENSE](https://img.shields.io/badge/License-apache-blue)&nbsp;
   ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)&nbsp;
@@ -46,9 +46,7 @@
 
 ## ABOUT DUDELANG
 
-A brief description of the project, what it does, and who it's for. This should
-be a concise summary that gives readers a clear understanding of the project's
-purpose and value proposition.
+Dudelang is an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) based on the movie [The Big Lebowski](https://en.wikipedia.org/wiki/The_Big_Lebowski).
 
 ### Features
 
