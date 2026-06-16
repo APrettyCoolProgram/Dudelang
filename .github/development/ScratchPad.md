@@ -1,5 +1,5 @@
 <div align="center">
 
-  <h1>Repository: Scratchpad</h1>
+  <h1>Dudelang: Scratchpad</h1>
 
 </div>
