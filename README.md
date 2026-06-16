@@ -80,7 +80,7 @@ TBD
 
 ## DOCUMENTATION
 
-Please see the [Dudelang Manual](docs/man/README.md).
+Please see the [Dudelang manual](docs/man/README.md).
 
 ## ACKNOWLEDGEMENTS
 
