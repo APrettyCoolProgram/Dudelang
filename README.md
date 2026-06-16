@@ -13,14 +13,15 @@
   <h1>Dudelang</h1>
 
   ![RELEASE](https://img.shields.io/badge/Release\/Version-25.0.0.0-teal)&nbsp;
-  ![STAGE](https://img.shields.io/badge/ALPHA/BETA-red)&nbsp; <!-- Alpha = Red, Beta = Yellow, Stable = Green -->
+  ![STAGE](https://img.shields.io/badge/ALPHA-red)&nbsp; <!-- Alpha = Red, Beta = Yellow, Stable = Green -->
   ![LICENSE](https://img.shields.io/badge/License-apache-blue)&nbsp;
-  ![Build](https://img.shields.io/badge/Build-Passing-brightgreen)
   ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20macOS%20%7C%20Linux-lightgrey)&nbsp;
 
   <h3>There's a beverage here!</h3>
 
 </div>
+
+---
 
 <h6 align="center">
 
