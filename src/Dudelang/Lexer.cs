@@ -66,14 +66,13 @@ namespace Dudelang
         // Regex patterns for token matching
         private static readonly Dictionary<TokenType, string> Patterns = new()
         {
-            [TokenType.StringLiteral] = "\"((\\\")|[^\"])*)\"",
+            [TokenType.StringLiteral] = "\"((\\\\\")|[^\\\\])*)\"",
             [TokenType.Identifier] = "[a-zA-Z_][a-zA-Z0-9_]*",
-            [TokenType.Number] = "(\d+(\.\d+)?)",
+            [TokenType.Number] = "(\\d+(\\.\\d+)?)",
             [TokenType.Assign] = "=",
             [TokenType.Semicolon] = ";",
             [TokenType.Colon] = ":",
-            [TokenType.Newline] = "
-"
+            [TokenType.Newline] = "\n"
         };
 
         public Lexer(string sourceCode)

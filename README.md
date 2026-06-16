@@ -10,8 +10,6 @@
     <img alt="Fallback image description" src="https://github.com/APrettyCoolProgram/Dudelang/blob/development/.github/repository/logo/Dudelang-334x334.png">
   </picture>
 
-  <h1>Dudelang</h1>
-
   ![RELEASE](https://img.shields.io/badge/Version-0.0.0.0-teal)&nbsp;
   ![STAGE](https://img.shields.io/badge/ALPHA-red)&nbsp; <!-- Alpha = Red, Beta = Yellow, Stable = Green -->
   ![LICENSE](https://img.shields.io/badge/License-apache-blue)&nbsp;
