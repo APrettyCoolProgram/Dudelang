@@ -5,9 +5,9 @@
 <div align="center">
 
   <picture>
-    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/dudelang-334x344.jpg">
-    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/dudelang-334x344.jpg">
-    <img alt="Fallback image description" src=".github/repository/logo/dudelang-334x344.jpg">
+    <source media="(prefers-color-scheme: dark)" srcset=".github/repository/logo/Dudelang-334x344.jpg">
+    <source media="(prefers-color-scheme: light)" srcset=".github/repository/logo/Dudelang-334x344.jpg">
+    <img alt="Fallback image description" src=".github/repository/logo/Dudelang-334x344.jpg">
   </picture>
 
   <h1>Dudelang</h1>
