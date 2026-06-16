@@ -1,11 +1,11 @@
 <div align="center">
 
   <h1>The Making of Dudelang</h1>
-  <h3>Dude, I can get you a lexer</h3>
+  <h3>02: Dude, I can get you a lexer</h3>
 
 </div>
 
-## Prompt 01
+## Prompt
 
 Let's start with the lexer implementation.
 
@@ -26,4 +26,4 @@ And make sure to create/update the following:
 
 Let's implement the lexer!
 
-## Response 02
+## Response

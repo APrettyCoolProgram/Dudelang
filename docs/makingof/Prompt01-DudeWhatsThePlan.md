@@ -1,11 +1,11 @@
 <div align="center">
 
   <h1>The Making of Dudelang</h1>
-  <h3>Dude, what's the plan?</h3>
+  <h3>01: Dude, what's the plan?</h3>
 
 </div>
 
-## Prompt 01 
+## Prompt
 
 You are an experienced software developer, specializing in designing and implementing new programming languages.
 
@@ -36,7 +36,7 @@ DUDE, SAY i
 
 What would you suggest we do to create such a language?
 
-## Response 01
+## Response
 
 I'll help you create Dudelang! Let's break this down into key components:
 
@@ -45,22 +45,21 @@ I'll help you create Dudelang! Let's break this down into key components:
 3. **Documentation**
 
 ### 1. Language Design
+
 First, let's define the core syntax elements based on your examples:
 
-```mermaid
-grammarDiagram
-    Dude -> "say" | "mark"
-    sayCommand --> "Dude, say" + stringLiteral
-    markCommand --> "Dude, mark" + identifier + stringLiteral
-```
+Dude -> "say" | "mark"
+sayCommand --> "Dude, say" + stringLiteral
+markCommand --> "Dude, mark" + identifier + stringLiteral
 
 Key features:
-- Commands start with `Dude,`
+- Commands start with `Dude, `
 - Two main verbs: `say` (output) and `mark` (assign)
 - Variables are named using identifiers after `mark`
 - String literals use double quotes
 
 ### 2. Toolchain Development
+
 We'll create a minimal viable toolchain:
 
 ```mermaid
@@ -72,6 +71,7 @@ flowchart TD
 ```
 
 #### File Structure Suggestion:
+
 ```
 src/
 ├── dudelang/
@@ -83,7 +83,9 @@ src/
 ```
 
 #### Implementation Steps:
+
 1. **Lexer (src/dudelang/lexer.py)**
+
 ```mermaid
 stateDiagram
     [*] --> START
@@ -94,6 +96,7 @@ stateDiagram
 ```
 
 2. **Parser (src/dudelang/parser.py)**
+
 ```mermaid
 stateDiagram
     [*] --> START
@@ -104,6 +107,7 @@ stateDiagram
 ```
 
 3. **Runtime (src/dudelang/runtime.py)**
+
 ```python
 class DudelangVM:
     def __init__(self):
@@ -115,6 +119,7 @@ class DudelangVM:
 ```
 
 ### 3. Documentation
+
 We should create comprehensive documentation in the docs folder:
 
 1. **Language Specification (docs/spec.md)**
@@ -122,6 +127,7 @@ We should create comprehensive documentation in the docs folder:
 3. **API Reference (docs/api/)**
 
 Would you like me to proceed with implementing any of these components? I can start with either:
+
 1. The lexer implementation
 2. The parser specification
 3. The language specification documentation
