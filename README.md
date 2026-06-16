@@ -46,43 +46,15 @@
 
 ## ABOUT DUDELANG
 
-Dudelang is an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) based on the movie [The Big Lebowski](https://en.wikipedia.org/wiki/The_Big_Lebowski).
+**Dudelang** is an [esoteric programming language](https://en.wikipedia.org/wiki/Esoteric_programming_language) based on the movie [The Big Lebowski](https://en.wikipedia.org/wiki/The_Big_Lebowski).
 
 ### Features
 
-* Feature — What it does and why it matters.
-* Feature — What it does and why it matters.
-* Feature — What it does and why it matters.
+TBD
 
 ### What's New
 
-* New feature — A brief description of the new feature and its benefits.
-* Improvement — A brief description of the improvement and its benefits.
-* Bug fix — A brief description of the bug fix and its impact.
-
-<!-- =============================================================== [ABOUT] -->
-
-<!-- [HOW IT WORKS] ============================================================
-* How it works
-  A high-level overview of how the project works.
-============================================================================= -->
-
-## HOW IT WORKS
-
-A blurb describing how the project works at a high level.
-
-<!-- ========================================================= [HOW IT WORKS] -->
-
-<!-- [GETTING STARTED] =========================================================
-* Before you begin
-  Any prerequisites, assumptions, or other information a user should know before
-  getting started.
-* Prerequisites/Requirements
-  List of software, hardware, or other requirements.
-
-  If this section is only comprised of prerequisites, it can be merged with the
-  About section.
-============================================================================ -->
+TBD
 
 ## GETTING STARTED
 
@@ -90,123 +62,48 @@ A quick overview of how to get started with the project.
 
 ### Before you begin
 
-Any assumptions, or other information a user should know before
+TBD
 
 ### Requirements
 
-| Requirement | Minimum version | Notes |
-|-------------|-----------------|-------|
-| Requirement |                 |       |
-| Requirement |                 |       |
-| Requirement |                 |       |
-
-<!-- [INSTALLING] =========================================================
-* Installing
-  Step-by-step instructions for installing the project on supported platforms.
-
-  This section may contain the Prerequisites.
-
-  In general, this should be a quick overview of the installation process,
-  with a link to docs/man/README.md.
-============================================================================ -->
+TBD
 
 ## INSTALLING
 
-Quick summary of installation instructions, or link to the Installing documentation.
-
-<!-- ========================================================== [INSTALLING] -->
-
-<!-- [USAGE] ===================================================================
-* Usage
-  Step-by-step instructions for using the project on supported platforms.
-  Remove OS sections that are not supported.
-
-  In general, this should be a quick overview of the usage process,
-  with a link to docs/man/README.md.
-============================================================================ -->
-
-<!-- [SETUP] ===================================================================
-* Setup
-  Step-by-step instructions for setting up the project on supported platforms.
-  Remove OS sections that are not supported.
-
-  In general, this should be a quick overview of the setup process,
-  with a link to docs/man/README.md.
-============================================================================ -->
-
-<!-- =============================================================== [SETUP] -->
+TBD
 
 ## USAGE
 
 Step-by-step instructions for using the project on supported platforms.
 
-<!-- =============================================================== [USAGE] -->
-
-<!-- [DOCUMENTATION] ===========================================================
-* Documentation
-  A quick overview of the documentation.
-============================================================================ -->
+TBD
 
 ## DOCUMENTATION
 
-Documentation is available.
-
-<!-- ======================================================= [DOCUMENTATION] -->
-
-<!-- [ACKNOWLEDGEMENTS] ========================================================
-* Acknowledgements
-  List of acknowledgements, or remove this section if there are none.
-============================================================================ -->
+Please see the [Dudelang Manual](docs/man/README.md).
 
 ## ACKNOWLEDGEMENTS
 
-None.
-
-<!-- ==================================================== [ACKNOWLEDGEMENTS] -->
-
-<!-- [RELATED PROJECTS] ========================================================
-* Related projects
-  List of related projects, or remove this section if there are none.
-============================================================================ -->
+TBD
 
 ## BUILT WITH
 
-* [Technology or framework](URL)  - Role it plays in the project.
-* [Technology or framework](URL)  - Role it plays in the project.
-* [Technology or framework](URL)  - Role it plays in the project.
+TBD
 
 ## RELATED PROJECTS
 
-None.
-
-<!-- ==================================================== [RELATED PROJECTS] -->
-
-<!-- [LICENSE] =================================================================
-* License
-  The license under which the project is distributed.
-============================================================================ -->
+TBD
 
 ## LICENSE
 
 Distributed under the [Apache 2.0 License](LICENSE).  
 Copyright &copy; 2026 %Owner%
 
-<!-- ============================================================= [LICENSE] -->
-
----
-
-<!-- [HORIZONTAL MENU] =========================================================
-* Horizontal menu (bottom)
-  Contains components that aren't in/don't belong in the table of contents.
----------------------------------------------------------------------------- -->
-
 <h6 align="center">
 
   [FAQ](docs/FAQ.md)&nbsp;&bull;&nbsp;[DEVELOPMENT](docs/DEVELOPMENT.md)&nbsp;&bull;&nbsp;[API](docs/api/README.md)&nbsp;&bull;&nbsp;[TESTING](docs/TESTING.md)&nbsp;&bull;&nbsp;[SUPPORT](docs/SUPPORT.md)&nbsp;&bull;&nbsp;[NOTICES](docs/NOTICES.md)
   
 </h6>
-
-<!-- ===================================================== [HORIZONTAL MENU] -->
 
 ---
 
