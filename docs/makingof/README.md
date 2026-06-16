@@ -21,4 +21,5 @@
 
 * 01 [That's a great plan, Walter](ThatsAGreatPlanWalter.md)
 * 02 [I can get you a lexer](ICanGetYouALexer.md)
-* 03 [Nice parser](NiceParser.md)
+* 03 [Nice parser, Part 1](NiceParserPart1.md)
+* 04 [Nice parser, Part 2](NiceParserPart2.md)

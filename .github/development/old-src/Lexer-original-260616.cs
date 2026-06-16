@@ -1,20 +1,20 @@
-// 260616_code
-// 260616_documentation
-
 using System;
 using System.Collections.Generic;
 using System.Text.RegularExpressions;
 
 namespace Dudelang
 {
-    /// <summary>Represents the different types of tokens that can be recognized by the lexer.</summary>
     public enum TokenType
     {
         // Keywords
-        DUDE, MARK, SAY,
+        DUDE,
+        MARK,
+        SAY,
         
         // Literals
-        Identifier, StringLiteral, Number,
+        Identifier,
+        StringLiteral,
+        Number,
         
         // Symbols
         Assign,      // =
@@ -23,32 +23,21 @@ namespace Dudelang
         QuotationMark, // "
         
         // Whitespace
-        Newline, Indent, Dedent,
+        Newline,
+        Indent,
+        Dedent,
         
         // Errors
         InvalidToken
     }
 
-    /// <summary>Represents a token produced by the lexer, containing its type, value, and position information (line and column numbers).</summary>
     public class Token
     {
-        /// <summary>Gets the type of the token.</summary>
         public TokenType Type { get; }
-
-        /// <summary>Gets the value of the token.</summary>
         public string Value { get; }
-
-        /// <summary>Gets the line number where the token appears in the source code.</summary>
         public int LineNumber { get; }
-
-        /// <summary>Gets the column number where the token appears in the source code.</summary>
         public int ColumnNumber { get; }
 
-        /// <summary>Initializes a new instance of the <see cref="Token"/> class with the specified type, value, line number, and column number.</summary>
-        /// <param name="type">The type of the token.</param>
-        /// <param name="value">The value of the token.</param>
-        /// <param name="lineNumber">The line number where the token appears in the source code.</param>
-        /// <param name="columnNumber">The column number where the token appears in the source code.</param>
         public Token(TokenType type, string value, int lineNumber, int columnNumber)
         {
             Type = type;
@@ -58,30 +47,15 @@ namespace Dudelang
         }
     }
 
-    /// <summary>Represents the lexer responsible for tokenizing the source code into a sequence of tokens.</summary>
     public class Lexer
     {
-        /// <summary>Initializes a new instance of the <see cref="Lexer"/> class with the specified source code.</summary>
-        /// <param name="sourceCode">The source code to be tokenized.</param>
         private readonly string _sourceCode;
-
-        /// <summary>Gets the source code to be tokenized.</summary>
-        /// <summary>Gets the list of tokens produced by the lexer.</summary>
         private List<Token> _tokens = new();
-
-        /// <summary>Gets the list of tokens produced by the lexer.</summary>
         private int _position;
-
-        /// <summary>Gets the current line number in the source code.</summary>
         private int _lineNumber;
-
-        /// <summary>Gets the current column number in the source code.</summary>
         private int _columnNumber;
 
-        /// <summary>
-        /// Represents the mapping of keyword strings to their corresponding token types.
-        /// This dictionary is used to identify keywords in the source code.
-        /// </summary>
+        // Token patterns
         private static readonly Dictionary<string, TokenType> Keywords = new()
         {
             {"DUDE", TokenType.DUDE},
@@ -89,10 +63,7 @@ namespace Dudelang
             {"SAY", TokenType.SAY}
         };
 
-        /// <summary>
-        /// Represents the mapping of token types to their corresponding regex patterns.
-        /// This dictionary is used to match token types in the source code using regular expressions.
-        /// </summary>
+        // Regex patterns for token matching
         private static readonly Dictionary<TokenType, string> Patterns = new()
         {
             [TokenType.StringLiteral] = "\"((\\\\\")|[^\\\\])*)\"",
@@ -104,10 +75,6 @@ namespace Dudelang
             [TokenType.Newline] = "\n"
         };
 
-        /// <summary>
-        /// Initializes a new instance of the <see cref="Lexer"/> class with the specified source code.
-        /// </summary>
-        /// <param name="sourceCode"></param>
         public Lexer(string sourceCode)
         {
             _sourceCode = sourceCode;
@@ -116,8 +83,6 @@ namespace Dudelang
             _columnNumber = 1;
         }
 
-        /// <summary>Tokenizes the source code into a sequence of tokens.</summary>
-        /// <returns>A list of tokens representing the tokenized source code.</returns>
         public List<Token> Tokenize()
         {
             while (_position < _sourceCode.Length)
@@ -158,10 +123,6 @@ namespace Dudelang
             return _tokens;
         }
 
-        /// <summary>Handles whitespace characters in the source code, including spaces, tabs, and newlines.</summary>
-        /// <remarks>
-        /// This method updates the line and column numbers appropriately and adds tokens for newlines and indentation.
-        /// </remarks>
         private void HandleWhitespace()
         {
             char current = _sourceCode[_position];
@@ -185,9 +146,6 @@ namespace Dudelang
             }
         }
 
-        /// <summary>Determines if the current sequence of characters forms a keyword.</summary>
-        /// <param name="keyword">Outputs the keyword if found; otherwise, null.</param>
-        /// <returns>True if a keyword is found; otherwise, false.</returns>
         private bool IsKeyword(out string keyword)
         {
             int start = _position;
@@ -210,11 +168,6 @@ namespace Dudelang
             return false;
         }
 
-        /// <summary>Attempts to match the current sequence of characters against a specific token type using a regex pattern.</summary>
-        /// <param name="type">The type of token to match.</param>
-        /// <param name="pattern">The regex pattern to use for matching.</param>
-        /// <param name="value">Outputs the matched value if successful; otherwise, null.</param>
-        /// <returns>True if the pattern matches; otherwise, false.</returns>
         private bool Match(TokenType type, string pattern, out string value)
         {
             var regex = new Regex($"^({pattern})");
@@ -230,13 +183,6 @@ namespace Dudelang
             return false;
         }
 
-        /// <summary>Adds a token to the list of tokens, updating the column number accordingly.</summary>
-        /// <param name="type">The type of token to add.</param>
-        /// <param name="value">The value of the token. If null, an empty string is used.</param>
-        /// <remarks>
-        /// This method updates the column number based on the length of the token's value.
-        /// If the value is null, the column number is incremented by 1.
-        /// </remarks>
         private void AddToken(TokenType type, string value = null)
         {
             _tokens.Add(new Token(type, value ?? "", _lineNumber, _columnNumber));
