@@ -1,0 +1,20 @@
+REM This is an example of a single-line comment.
+
+REM This is
+REM an example of
+REM a block comment.
+
+_START
+
+Dude, mark aVariable "Hello world";
+
+Dude, if aVariable is "Hello world"
+{
+    Dude, say aVariable;
+}
+else
+{
+    Dude, say "Goodbye cruel world!";
+}
+
+END_
