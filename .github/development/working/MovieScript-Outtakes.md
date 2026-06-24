@@ -128,14 +128,63 @@
 * Yeah, what do you think
 * He looks like a fucking loser
 * Hey. At least I'm housebroken.
+* Thanks a lot, asshole.
 
-
-
-
-
-
-
-
+* I'm throwin' rocks tonight.
+* Mark it, Dude.
+* This was a valued rug.
+* It really tied the room together
+* What tied the room together, Dude?
+* My rug.
+* Were you listening to the story, Donny?
+* I was bowling
+* So you have no frame of reference, here Donny.
+* You're like a child who wanders into the middle of a movie and wants to
+* What's the point man?
+* There's no fucking reason
+* Here's my point, Dude
+* What's your point?
+* We all know who was at fault here
+* What the fuck are you talking about?
+* We're talking about unchecked aggression here, Dude.
+* What the fuck is he talking about?
+* My rug.
+* Forget it, Donny. You're out of your element.
+* The Chinaman who peed on my rug
+* I can't go give him a bill
+* The Chinaman is not the issue here dude!
+* I'm talking about drawing a line in the sand, Dude.
+* Across this line you do not
+* Walter, this isn't a guy who built the railroads, here, this is a guy
+* Walter, he peed on my rug.
+* He peed on the Dude's rug.
+* Dude the Chinaman is not the issuehere.
+* Jeff Lebowski. The other Jeffrey Lebowski. The millionaire.
+* That's fucking interesting man
+* that's fucking interesting
+* he has the wealth
+* and the resources
+* why his wife should go out and owe money all over town
+* and then they come and they pee on your fucking rug!
+* Am I wrong?
+* Okay then.
+* That rug really tied the room together, did it not?
+* Fuckin' A.
+* And this guy peed on it.
+* Donny, Please.
+* You know, this is the fuckin' guy
+* I could find this Lebowski guy.
+* His name is Lebowski? That's your name, Dude!
+* This is the guy, who should compensate me for the fucking rug.
+* His wife goes out and owes money all over town, and they pee on my rug?
+* They pee on your fucking Rug?
+* That's right Dude; they peed on your fucking Rug.
+* This is the study
+* As you can see the various commendations, awards, citations, honorary degrees, et cetera.
+* Hmm, very impressive.
+* Please, feel free to inspect them.
+* That's the key to the city of Pasadena, which Mr. Lebowski received two years ago in recognition of his various civic,
+* That's a Los Angeles Chamber of Commerce Business Achiever award, which is given--oh not necessarily given every year!
 
 
 * The Dude Abides
